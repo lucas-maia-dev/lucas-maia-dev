@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hi everyone :wave:
 
-<!--
-**lucas-maia-dev/lucas-maia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer from São Paulo, Brazil.
 
-Here are some ideas to get you started:
+### What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am a full stack developer for a private company.
+
+I'm completely passionate about website development, systems and anything else that involves codes. I love learning new technologies and I'm always looking for new challenges to improve my development skills.
+
+## My skills 📜
+
+### Front-end
+
+- HTML, CSS, LESS
+- JavaScript
+- TypeScript
+- Node.js 
+  
+### Back-end
+
+- C#
+- Go
+- PHP
+- Python
+
+### Frameworks
+
+- Angular
+- React
+- Vue.js
+- .NET
+
+### Other skills and conhecimentos
+
+- POO
+- Docker
+- Git
+- SQL
+- PostgreSQL
+- Nats
+- UX/UI
+- Scrum

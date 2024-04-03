@@ -34,6 +34,7 @@ I'm completely passionate about website development, systems and anything else t
 
 ### Other skills and conhecimentos
 
+- Linux
 - POO
 - Docker
 - Git

@@ -16,7 +16,6 @@ I'm completely passionate about website development, systems and anything else t
 - HTML, CSS, LESS
 - JavaScript
 - TypeScript
-- Node.js 
   
 ### Back-end
 
@@ -24,6 +23,7 @@ I'm completely passionate about website development, systems and anything else t
 - Go
 - PHP
 - Python
+- Node.js 
 
 ### Frameworks
 

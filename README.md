@@ -32,7 +32,7 @@ I'm completely passionate about website development, systems and anything else t
 - Vue.js
 - .NET
 
-### Other skills and conhecimentos
+### Other skills and knowledge
 
 - Linux
 - POO

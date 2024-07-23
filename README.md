@@ -31,6 +31,9 @@ I'm completely passionate about website development, systems and anything else t
 - React
 - Vue.js
 - .NET
+- NestJS
+- Express.js
+- Fastify
 
 ### Other skills and knowledge
 

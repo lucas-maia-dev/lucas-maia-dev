@@ -34,6 +34,7 @@ I'm completely passionate about website development, systems and anything else t
 - NestJS
 - Express.js
 - Fastify
+- Next.js
 
 ### Other skills and knowledge
 
